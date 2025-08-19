@@ -1,0 +1,1 @@
+Solucion al taller de implementacion de Haskell sobre un inventario en un negocio que necesita añadir, eliminar, actualizar cantidades y mostrar el total tanto en precio como en stock de sus productos, en este caso, guitarras, repuestos para instrumentos y discos.
